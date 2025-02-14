@@ -1,9 +1,10 @@
 console.log('hello from salma');
-// console.lolog]]]
+console.log('hello from main');
 // lg(nhello from mariam');
 const sum=(num)=>{
 console.log('sum');
 
 }
+
 
 
