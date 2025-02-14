@@ -1,2 +1,2 @@
-console.log('hello from main');
-const x = 'conflict from main';
+console.log('hello from mariam');
+const x = 'conflict from mariam';
