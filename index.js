@@ -1,5 +1,4 @@
 console.log('hello from mariam');
-const x = 'c=;;flict from mariam';
+const g ='helllo'
+const x = 'conflict from mariam';
 
-
-const c='c' 
