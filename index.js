@@ -1,4 +1,2 @@
-console.log('hello from salma')
-const x='slove the conflicts from main';
-
-
+console.log('hello from mariam');
+const x = 'conflict from mariam';
