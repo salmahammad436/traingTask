@@ -1,5 +1,9 @@
 console.log('hello from salma');
-console.log('hello from mariam');
-console.log('heelo form main');
+// console.lolog]]]
+// lg(nhello from mariam');
+const sum=(num)=>{
+console.log('sum');
+
+}
 
 
